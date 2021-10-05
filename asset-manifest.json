@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Crousel/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Crousel/static/js/main.f21fa001.chunk.js",
+    "main.js.map": "/Crousel/static/js/main.f21fa001.chunk.js.map",
+    "runtime-main.js": "/Crousel/static/js/runtime-main.ba5c8c90.js",
+    "runtime-main.js.map": "/Crousel/static/js/runtime-main.ba5c8c90.js.map",
+    "static/js/2.62ace0ca.chunk.js": "/Crousel/static/js/2.62ace0ca.chunk.js",
+    "static/js/2.62ace0ca.chunk.js.map": "/Crousel/static/js/2.62ace0ca.chunk.js.map",
+    "static/js/3.06282321.chunk.js": "/Crousel/static/js/3.06282321.chunk.js",
+    "static/js/3.06282321.chunk.js.map": "/Crousel/static/js/3.06282321.chunk.js.map",
+    "index.html": "/Crousel/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Crousel/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.62ace0ca.chunk.js.LICENSE.txt": "/Crousel/static/js/2.62ace0ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba5c8c90.js",
+    "static/js/2.62ace0ca.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f21fa001.chunk.js"
+  ]
+}
