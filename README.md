@@ -1,2 +1,2 @@
-# Prject Live Link
+# Project Live Link
 https://gchavan65.github.io/Crousel/
